@@ -35,7 +35,3 @@ let result9 = myBoolean/myNumber;
 console.log(result9);//number
 
 
-
-
-
-
